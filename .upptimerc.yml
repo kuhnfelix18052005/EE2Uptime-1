@@ -4,9 +4,9 @@ repo: upptime # The name of this repository
 
 sites:
   - name: SMS
-    url: https://www.sms.eursc.eu
+    url: https://sms.eursc.eu
   - name: STS Login Page
-    url: https://www.sts.eursc.eu
+    url: https://sts.eursc.eu
   - name: Office365
     url: https://www.office.com
 
