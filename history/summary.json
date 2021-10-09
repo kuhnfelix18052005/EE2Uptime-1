@@ -1,42 +1,42 @@
 [
   {
     "name": "SMS",
-    "url": "https://www.sms.eursc.eu",
-    "icon": "https://favicons.githubusercontent.com/www.sms.eursc.eu",
+    "url": "https://sms.eursc.eu",
+    "icon": "https://favicons.githubusercontent.com/sms.eursc.eu",
     "slug": "sms",
-    "status": "down",
-    "uptime": "8.81%",
-    "uptimeDay": "8.81%",
-    "uptimeWeek": "8.81%",
-    "uptimeMonth": "8.81%",
-    "uptimeYear": "8.81%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "21.35%",
+    "uptimeDay": "21.35%",
+    "uptimeWeek": "21.35%",
+    "uptimeMonth": "21.35%",
+    "uptimeYear": "21.35%",
+    "time": 1114,
+    "timeDay": 1114,
+    "timeWeek": 1114,
+    "timeMonth": 1114,
+    "timeYear": 1114,
     "dailyMinutesDown": {
-      "2021-10-09": 0
+      "2021-10-09": 1
     }
   },
   {
     "name": "STS Login Page",
-    "url": "https://www.sts.eursc.eu",
-    "icon": "https://favicons.githubusercontent.com/www.sts.eursc.eu",
+    "url": "https://sts.eursc.eu",
+    "icon": "https://favicons.githubusercontent.com/sts.eursc.eu",
     "slug": "sts-login-page",
     "status": "down",
-    "uptime": "13.54%",
-    "uptimeDay": "13.54%",
-    "uptimeWeek": "13.54%",
-    "uptimeMonth": "13.54%",
-    "uptimeYear": "13.54%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "uptime": "1.70%",
+    "uptimeDay": "1.70%",
+    "uptimeWeek": "1.70%",
+    "uptimeMonth": "1.70%",
+    "uptimeYear": "1.70%",
+    "time": 5425,
+    "timeDay": 5425,
+    "timeWeek": 5425,
+    "timeMonth": 5425,
+    "timeYear": 5425,
     "dailyMinutesDown": {
-      "2021-10-09": 0
+      "2021-10-09": 2
     }
   },
   {
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 54,
-    "timeDay": 54,
-    "timeWeek": 54,
-    "timeMonth": 54,
-    "timeYear": 54,
+    "time": 52,
+    "timeDay": 52,
+    "timeWeek": 52,
+    "timeMonth": 52,
+    "timeYear": 52,
     "dailyMinutesDown": {}
   }
 ]
