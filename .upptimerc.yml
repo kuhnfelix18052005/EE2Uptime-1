@@ -9,6 +9,8 @@ sites:
     url: https://sts.eursc.eu/adfs/ls/
   - name: Office365
     url: https://www.office.com
+  - name: Microsoft Teams
+    url: https://teams.microsoft.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
